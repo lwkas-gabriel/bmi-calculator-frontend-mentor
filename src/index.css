@@ -1,3 +1,12 @@
+:root{
+  --blue: #345FF6;
+  --gunmetal: #253347;
+  --darkeletricblue: #5E6E85;
+  --borders: #D8E2E7;
+  --blue: #FFFFFF;
+}
+
+
 *{
   padding: 0;
   margin: 0;

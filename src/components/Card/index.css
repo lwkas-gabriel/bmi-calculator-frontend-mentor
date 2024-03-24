@@ -4,13 +4,11 @@
     gap: 60px;
     width: 365px;
     height: fit-content;
-    border-radius: 18px;
-    background-color: white;
 }
 
 .card-container .icon{
     width: 64px;
-    height: fit-content;
+    height: 64px;
 }
 
 .card-body{
@@ -20,10 +18,16 @@
 }
 
 .card-body .title{
-
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 110%;
+    color: var(--gunmetal);
 }
 
 
 .card-body .description{
-
+    font-size: 16px;
+    font-weight: 100;
+    line-height: 150%;
+    color: var(--darkeletricblue);
 }
