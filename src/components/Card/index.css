@@ -1,0 +1,29 @@
+.card-container{
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+    width: 365px;
+    height: fit-content;
+    border-radius: 18px;
+    background-color: white;
+}
+
+.card-container .icon{
+    width: 64px;
+    height: fit-content;
+}
+
+.card-body{
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.card-body .title{
+
+}
+
+
+.card-body .description{
+
+}
